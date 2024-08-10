@@ -1,0 +1,6 @@
+B1 : Giải nén tập tin và chạy lệnh cmd
+B2 : dùng các lệnh này để chạy cmd 
+lệnh 1 : stripe login ( khi này hãy ấn y để nhảy đến web và ấn vào "Allow"
+lệnh 2 : stripe listen --forward-to localhost:8080/api/webhook
+
+B3: Dùng và thanh toán như bình thường 
